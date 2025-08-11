@@ -1,0 +1,73 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folder
+venv/
+
+# Common Files to Ignore
+.docx
+.pdf
+.png
+.jpg
+.jpeg
+.gif
+.bmp
+.tiff
+.svg
+.psd
+.ai
+
+# Audio/Video
+.mp3
+.wav
+.flac
+.aac
+.ogg
+.mp4
+.mov
+.avi
+.mkv
+
+# Archives / Compressed
+.zip
+.tar
+.tar.gz
+.tgz
+.rar
+.7z
+
+# Executables / Binaries
+.exe
+.dll
+.so
+.dylib
+.class
+.jar
+.bin
+.dat
+
+# Office / Spreadsheet
+.xls
+.xlsx
+.xlsm
+.ppt
+.pptx
+.odt
+.ods
+.otp
+
+# Database files
+.db
+.sqlite
+.sqlite3
+.mdb
+.accdb
+.sql
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
